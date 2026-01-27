@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tyson"
+  name             : "Tyson Truong Tran"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Vietnamese"
   location         : "I am from Earth-616"
-  employer         : "Red Brick University"
+  employer         : "Pho and More"
   uri              : # URL
   email            : "tysontran2004@gmail.com" 
 
