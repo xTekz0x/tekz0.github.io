@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "F360502B-AE9F-4A4B-95D6-763EA9896478_1_105_c.jpeg"
+  avatar           : "github avatar.png"
   name             : "Tyson Truong Tran"
   pronouns         : "He/Him"  
   bio              : "Vietnamese"
