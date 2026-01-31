@@ -11,12 +11,12 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Tyson's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Tyson Truong Tran"
+description              : &description "Computer Science student portfolio at the University of Houston"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://xtekz0x.github.io/tekz0.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xTekz0x/tekz0.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,25 +26,16 @@ author:
   avatar           : "Profile1.png"
   name             : "Tyson Truong Tran"
   pronouns         : "He/Him"  
-  bio              : "Vietnamese"
-  location         : "I am from Earth-616"
+  bio              : "Computer Science student at the University of Houston."
+  location         : "Pearland, TX"
   employer         : "Pho and More"
   uri              : # URL
   email            : "tysontran2004@gmail.com" 
 
   # Academic websites
-  academia         : cs.uh.edu
+  academia         : "https://www.cs.uh.edu"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
 
 
   # Repositories and software development
@@ -56,32 +47,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
-  lastfm           : # Username
+
   linkedin         : "tyson-tran-5b44723a7"
-  mastodon         : # URL
-  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  steam            : "https://steamcommunity.com/profiles/76561199089526935/"
   twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
-
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -130,7 +103,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -146,7 +119,7 @@ facebook:
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# - https://developers..com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -155,9 +128,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-gtag" # false (default), "", "-universal", "-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-WGKM15BT2B"
 
 
 # Reading Files
