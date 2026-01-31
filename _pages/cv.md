@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+**CV**
+cv    : "https://www.resume-now.com/build-resume"
 
 Education
 ======
